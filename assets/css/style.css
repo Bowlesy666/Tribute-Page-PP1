@@ -45,6 +45,20 @@ header {
 
 .nav-links li, #burger-menu {
     list-style: none;
-    display: inline-block;
-    padding: 0px 20px;
+    display: block;
+    padding: 15px 20px;
+}
+
+/* below here is the media queries in a mobile first style */
+
+@media screen and (min-width:430px) {
+    /* header and nav bar media queries */
+    .nav-links li {
+        list-style: none;
+        display: inline-block;
+        padding: 0px 20px;
+    }
+    #burger-menu {
+        display: none;
+    }
 }
