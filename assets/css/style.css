@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Roboto+Slab&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+  /* smooth scroll for page nav links */
+  scroll-behavior: smooth;
+  font-family: 'Roboto Slab', serif;
+}
+
+p {
+    font-family: 'Alata', sans-serif;
+}
