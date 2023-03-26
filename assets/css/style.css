@@ -10,7 +10,7 @@
   font-family: 'Roboto Slab', serif;
 }
 
-p {
+p, li, a {
     font-family: 'Alata', sans-serif;
 }
 
@@ -34,7 +34,7 @@ header {
     margin-right: auto;
 }
 
-#contact-input {
+#contact-input, #burger-input {
     visibility: hidden;
 }
 
@@ -43,7 +43,7 @@ header {
     position: fixed;
 }
 
-.nav-links li {
+.nav-links li, #burger-menu {
     list-style: none;
     display: inline-block;
     padding: 0px 20px;
