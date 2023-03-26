@@ -34,6 +34,15 @@ header {
     margin-right: auto;
 }
 
+#contact-input {
+    visibility: hidden;
+}
+
+#hidden-form {
+    visibility: hidden;
+    position: fixed;
+}
+
 .nav-links li {
     list-style: none;
     display: inline-block;
