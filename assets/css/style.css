@@ -10,7 +10,7 @@
   font-family: 'Roboto Slab', serif;
 }
 
-p, li, a {
+p, li, a, label {
     font-family: 'Alata', sans-serif;
 }
 
@@ -43,20 +43,54 @@ header {
     position: fixed;
 }
 
+#burger-menu {
+    position: fixed;
+    right: 20px;
+}
+
+.nav-links li {
+    position: relative;
+    top: 150px;
+    right: -50px;
+    width: 250px;
+    background-color: grey;
+    justify-content: right;
+}
+
+#contact-input {
+    height: 0px;
+}
+
+.nav-links li div label, #contact-input {
+    background-color: grey;
+    display: block; 
+}
+
 .nav-links li, #burger-menu {
     list-style: none;
     display: block;
-    padding: 15px 20px;
+    padding: 15px 10px;
 }
 
 /* below here is the media queries in a mobile first style */
 
-@media screen and (min-width:430px) {
+@media screen and (min-width: 780px) {
     /* header and nav bar media queries */
-    .nav-links li {
-        list-style: none;
-        display: inline-block;
-        padding: 0px 20px;
+    .nav-links li div {
+        display: flex;
+    }
+    .nav-links li, .nav-links li div label {
+        position: static;
+        display: flex;
+        padding-right: 0;
+        margin: 0;
+        background-color: #fff;
+    }
+    ul {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        padding: 5px 10%;
     }
     #burger-menu {
         display: none;
