@@ -48,10 +48,6 @@ header {
     right: 20px;
 }
 
-/* .nav-links {
-    display: block;
-} */
-
 .nav-links li {
     position: relative;
     top: -150px;
@@ -97,11 +93,14 @@ header {
 
 #title-page-top span {
     font-size: 12px;
+    background-color: rgba(0, 0, 0, 0);
 }
 
 #hero-image-index {
     position: relative;
     width: 100%;
+    max-height: 90vh;
+    object-fit: cover;
     margin:0 auto;
 }
 
@@ -129,11 +128,29 @@ header {
     #burger-menu {
         display: none;
     }
-    /* title and hero image media queries */
+}
+
+@media screen and (min-width: 768px) {
+/* title and hero image media queries */
     #title-page-top {
-        font-size: 70px;
+        position: absolute;
+        top: 385px;
+        right: 25px;
+        text-align: right;
+        font-size: 45px;
+        font-weight: 900;
+        z-index: 1;
+        background-color: rgba(200, 200, 200, 0.5);
+        padding: 5px 25px;
+        border-radius: 10px;
     }
     #title-page-top span {
-        font-size: 35px;
+        font-size: 15px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    #title-page-top {
+        top: 570px;
     }
 }
