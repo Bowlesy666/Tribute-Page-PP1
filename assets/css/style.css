@@ -26,12 +26,14 @@ header {
     justify-content: flex-end;
     align-items: center;
     padding: 5px 10%;
+    background-color:rgba(255, 255, 255, 0.8);
 }
 
 #header-logo {
     cursor: pointer;
     height: 35px;
     margin-right: auto;
+    background-color:rgba(0, 0, 0, 0);
 }
 
 #contact-input, #burger-input {
@@ -46,6 +48,10 @@ header {
 #burger-menu {
     position: fixed;
     right: 20px;
+}
+
+#nav-menu ul li {
+    background-color:rgba(0, 0, 0, 0);
 }
 
 .nav-links li {
@@ -151,6 +157,6 @@ header {
 
 @media screen and (min-width: 1024px) {
     #title-page-top {
-        top: 570px;
+        top: 535px;
     }
 }
