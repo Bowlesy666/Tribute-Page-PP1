@@ -50,11 +50,21 @@ header {
 
 .nav-links li {
     position: relative;
-    top: 150px;
+    top: -150px;
     right: -50px;
     width: 250px;
     background-color: grey;
     justify-content: right;
+    cursor: pointer;
+}
+
+.nav-links li {
+    transition: all 0.3s ease 0s;
+}
+
+.nav-links li:hover {
+    background-color: rgba(200, 200, 200, 0.2);
+    font-weight: 800;
 }
 
 #contact-input {
@@ -74,7 +84,7 @@ header {
 
 /* below here is the media queries in a mobile first style */
 
-@media screen and (min-width: 780px) {
+@media screen and (min-width: 480px) {
     /* header and nav bar media queries */
     .nav-links li div {
         display: flex;
