@@ -48,9 +48,9 @@ header {
     right: 20px;
 }
 
-.nav-links {
-    display: none;
-}
+/* .nav-links {
+    display: block;
+} */
 
 .nav-links li {
     position: relative;
@@ -99,6 +99,12 @@ header {
     font-size: 12px;
 }
 
+#hero-image-index {
+    position: relative;
+    width: 100%;
+    margin:0 auto;
+}
+
 /* below here is the media queries in a mobile first style */
 
 @media screen and (min-width: 480px) {
@@ -123,6 +129,7 @@ header {
     #burger-menu {
         display: none;
     }
+    /* title and hero image media queries */
     #title-page-top {
         font-size: 70px;
     }
