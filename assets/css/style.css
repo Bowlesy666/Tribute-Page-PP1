@@ -4,7 +4,6 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  background-color: #fff;
   /* smooth scroll for page nav links */
   scroll-behavior: smooth;
   font-family: 'Roboto Slab', serif;
@@ -50,23 +49,17 @@ header {
     right: 20px;
 }
 
-#nav-menu ul li {
-    background-color:rgba(0, 0, 0, 0);
-}
-
 .nav-links li {
     position: relative;
     top: -150px;
     right: -50px;
     width: 250px;
-    background-color: grey;
+    background-color: rgba(0, 0, 0, 0);
     justify-content: right;
     cursor: pointer;
-}
-
-.nav-links li {
     transition: all 0.3s ease 0s;
 }
+
 
 .nav-links li:hover {
     background-color: rgba(200, 200, 200, 0.2);
@@ -123,7 +116,7 @@ header {
         padding-right: 0;
         margin: 0;
         width: auto;
-        background-color: #fff;
+        background-color: rgba(0, 0, 0, 0);
     }
     ul {
         display: flex;
