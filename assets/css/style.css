@@ -48,6 +48,10 @@ header {
     right: 20px;
 }
 
+.nav-links {
+    display: none;
+}
+
 .nav-links li {
     position: relative;
     top: -150px;
@@ -82,6 +86,19 @@ header {
     padding: 15px 10px;
 }
 
+/* Below here is Hero image and title styles */
+
+#title-page-top {
+    margin-top: 45px;
+    font-size: 35px;
+    background-color: rgba(0, 0, 0, 0);
+    text-align: center;
+}
+
+#title-page-top span {
+    font-size: 12px;
+}
+
 /* below here is the media queries in a mobile first style */
 
 @media screen and (min-width: 480px) {
@@ -105,5 +122,11 @@ header {
     }
     #burger-menu {
         display: none;
+    }
+    #title-page-top {
+        font-size: 70px;
+    }
+    #title-page-top span {
+        font-size: 35px;
     }
 }
