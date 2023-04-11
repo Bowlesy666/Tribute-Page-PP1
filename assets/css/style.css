@@ -107,6 +107,21 @@ header {
     margin:0 auto;
 }
 
+/* Below here is the about section styling */
+
+h2 {
+    text-align: center;
+    margin: 10px 0;
+}
+
+p {
+    font-size: 18px;
+}
+
+.margin-sides {
+    margin: 0 10%;
+}
+
 /* below here is the media queries in a mobile first style */
 
 @media screen and (min-width: 480px) {
