@@ -122,6 +122,17 @@ p {
     margin: 0 10%;
 }
 
+/* all below is the waterdoplet styling */
+
+#water-drop-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 300px;
+    border-top: solid 1px rgb(200, 200, 200);
+    border-bottom: solid 1px rgb(200, 200, 200);
+}
+
 /* below here is the media queries in a mobile first style */
 
 @media screen and (min-width: 480px) {
