@@ -146,6 +146,28 @@ p {
     box-shadow: inset 10px 10px 10px rgba(255, 255, 255, .9), -25px -10px 10px rgba(0, 0, 0, .05), -25px -30px 20px rgba(0, 0, 0, .05), inset -10px -10px 15px rgba(0, 0, 0, .05), 10px 10px 10px rgba(255, 255, 255, 0.8);
 }
 
+#water-drop::before {
+    content: " ";
+    position: absolute;
+    bottom: 35px;
+    left: 151px;
+    width: 30px;
+    height: 30px;
+    border-radius: 70% 40% 50% 50%;
+    background-color: rgba(255, 255, 255, .7);
+}
+
+#water-drop::after {
+    content: " ";
+    position: absolute;
+    bottom: 65px;
+    left: 182px;
+    width: 20px;
+    height: 20px;
+    border-radius: 70% 40% 50% 50%;
+    background-color: rgba(255, 255, 255, .9);
+}
+
 /* below here is the media queries in a mobile first style */
 
 @media screen and (min-width: 480px) {
