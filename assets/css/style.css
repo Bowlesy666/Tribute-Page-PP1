@@ -124,7 +124,33 @@ p {
 #milestones-title {
     text-align: center;
     font-size: 22px;
-    margin-top: 15px;
+    margin: 20px auto;
+}
+
+details {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 4px;
+    background-color: #24252A;
+    color:rgb(80, 80, 250);
+    box-shadow: 4px 4px 3px rgba(0, 0, 0, .18);
+    padding: 25px;
+    font-size: 12px;
+}
+
+summary {
+    cursor: pointer;
+    background-color: inherit;
+    color: inherit;
+}
+
+summary h3 {
+    display: inline;
+}
+
+details p {
+    margin-left: 15px;
+    font-size: small;
 }
 
 /* all below is the waterdoplet styling */
@@ -146,7 +172,7 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 50%;
+    border-radius: 70% 60% 70% 50%;
     background-color: #eee;
     box-shadow: inset 10px 10px 10px rgba(255, 255, 255, .9), -25px -10px 10px rgba(0, 0, 0, .05), -25px -30px 20px rgba(0, 0, 0, .05), inset -10px -10px 15px rgba(0, 0, 0, .05), 10px 10px 10px rgba(255, 255, 255, 0.8);
 }
