@@ -191,7 +191,7 @@ p {
 }
 
 .testimonial-card {
-    height: 315px;
+    height: auto;
     min-width: 300px;
     max-width: 45%;
     margin: 45px auto;
@@ -204,6 +204,27 @@ p {
     padding: 50px 25px;
     border: 1.5px solid rgba(255, 255, 255, 0.06);
     border-radius: 13px;
+}
+
+.testimonial-card-title {
+    font-weight: 900;
+    margin-top: -30px;
+    margin-bottom: 15px;
+}
+
+.testimonial-card-main-text {
+    text-align: center;
+    font-style: italic;
+}
+
+.testimonial-card-name {
+    margin-top: 25px;
+    float: right;
+    font-weight: 900;
+}
+
+.testimonial-card-name, .testimonial-card-main-text, .testimonial-card-title {
+    color: #111111;
 }
 
 /* below here is the media queries in a mobile first style */
