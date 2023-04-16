@@ -177,6 +177,17 @@ p {
     color: #444;
 }
 
+/* below here is the testimonial section styling */
+
+#testimonial-background-container {
+    /* reference taken from https://www.magicpattern.design/tools/css-backgrounds to add contrasting background which will show off glass style cards */
+    background-color: #e4e4fd;
+    opacity: 0.6;
+    background-image:  linear-gradient(30deg, #4b4b4b 12%, transparent 12.5%, transparent 87%, #4b4b4b 87.5%, #4b4b4b), linear-gradient(150deg, #4b4b4b 12%, transparent 12.5%, transparent 87%, #4b4b4b 87.5%, #4b4b4b), linear-gradient(30deg, #4b4b4b 12%, transparent 12.5%, transparent 87%, #4b4b4b 87.5%, #4b4b4b), linear-gradient(150deg, #4b4b4b 12%, transparent 12.5%, transparent 87%, #4b4b4b 87.5%, #4b4b4b), linear-gradient(60deg, #4b4b4b77 25%, transparent 25.5%, transparent 75%, #4b4b4b77 75%, #4b4b4b77), linear-gradient(60deg, #4b4b4b77 25%, transparent 25.5%, transparent 75%, #4b4b4b77 75%, #4b4b4b77);
+    background-size: 80px 140px;
+    background-position: 0 0, 0 0, 40px 70px, 40px 70px, 0 0, 40px 70px;
+}
+
 /* below here is the media queries in a mobile first style */
 
 @media screen and (min-width: 480px) {
