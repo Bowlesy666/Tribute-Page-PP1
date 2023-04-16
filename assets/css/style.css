@@ -385,6 +385,12 @@ textarea, input[type="text"], input[type="email"] {
     transition: all 0.3s ease 0s;
 }
 
+/*  below is 404 page styling */
+
+#fourzerofour-hero-image {
+    width: 100%;
+}
+
 /* below here is the media queries in a mobile first style */
 
 @media screen and (min-width: 768px) {
