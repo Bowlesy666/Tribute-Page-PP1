@@ -269,6 +269,49 @@ p {
     border: 1px solid rgb(0, 0, 255);
 }
 
+/* below is the footer section styles */
+
+footer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+    max-width: 100%;
+    margin: 0 auto;
+    background-color: #24252A;
+    padding: 20px 10px;
+}
+
+footer h6 {
+    font-size: 28px;
+}
+
+footer h6 span {
+    font-size: 15px;
+}
+
+#footer-logo {
+    width: 100px;
+}
+
+.footer-section {
+    background-color: #24252A;
+    padding: 20px;
+    margin: auto;
+    font-size: 30px;
+    text-align: center;
+    min-width: 250px;
+    max-width: 250px;
+    color: rgb(80, 80, 250);
+}
+
+.footer-section p {
+    font-size: small;
+}
+
+
+
 /* below here is the media queries in a mobile first style */
 
 @media screen and (min-width: 480px) {
