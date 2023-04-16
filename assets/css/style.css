@@ -310,6 +310,18 @@ footer h6 span {
     font-size: small;
 }
 
+.footer-social-logo {
+    width: 20%;
+    margin: 0 10px;
+    padding: 0;
+    float: left;
+}
+
+.footer-social-logo:hover {
+    width: 19%;
+    margin-right: 12px;
+}
+
 
 
 /* below here is the media queries in a mobile first style */
