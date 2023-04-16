@@ -216,12 +216,7 @@ details p {
 
 #testimonial-background-container {
     padding-bottom: 30px;
-    /* reference taken from https://www.magicpattern.design/tools/css-backgrounds to add contrasting background which will show off glass style cards */
-    background-color: #e4e4fd;
-    opacity: 0.6;
-    background-image:  linear-gradient(30deg, #4b4b4b 12%, transparent 12.5%, transparent 87%, #4b4b4b 87.5%, #4b4b4b), linear-gradient(150deg, #4b4b4b 12%, transparent 12.5%, transparent 87%, #4b4b4b 87.5%, #4b4b4b), linear-gradient(30deg, #4b4b4b 12%, transparent 12.5%, transparent 87%, #4b4b4b 87.5%, #4b4b4b), linear-gradient(150deg, #4b4b4b 12%, transparent 12.5%, transparent 87%, #4b4b4b 87.5%, #4b4b4b), linear-gradient(60deg, #4b4b4b77 25%, transparent 25.5%, transparent 75%, #4b4b4b77 75%, #4b4b4b77), linear-gradient(60deg, #4b4b4b77 25%, transparent 25.5%, transparent 75%, #4b4b4b77 75%, #4b4b4b77);
-    background-size: 80px 140px;
-    background-position: 0 0, 0 0, 40px 70px, 40px 70px, 0 0, 40px 70px;
+    background:linear-gradient(270deg, #00b0bd, #007b84);
 }
 
 .testimonial-card {
@@ -258,7 +253,7 @@ details p {
 }
 
 .testimonial-card-name, .testimonial-card-main-text, .testimonial-card-title {
-    color: #111111;
+    color: black;
 }
 
 /* below is the further links styling */
