@@ -188,6 +188,21 @@ p {
     background-position: 0 0, 0 0, 40px 70px, 40px 70px, 0 0, 40px 70px;
 }
 
+.testimonial-card {
+    height: 315px;
+    min-width: 300px;
+    max-width: 45%;
+    margin: 45px auto;
+    background-color: rgba(255, 255, 255, 0.06);
+    backdrop-filter: blur(15px);
+    box-shadow: 0 25px 23px rgba(0,0,0,0.15);
+    position: relative;
+    top: 20%;
+    padding: 50px 25px;
+    border: 1.5px solid rgba(255, 255, 255, 0.06);
+    border-radius: 13px;
+}
+
 /* below here is the media queries in a mobile first style */
 
 @media screen and (min-width: 480px) {
