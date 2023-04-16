@@ -180,6 +180,8 @@ p {
 /* below here is the testimonial section styling */
 
 #testimonial-background-container {
+
+    padding-bottom: 30px;
     /* reference taken from https://www.magicpattern.design/tools/css-backgrounds to add contrasting background which will show off glass style cards */
     background-color: #e4e4fd;
     opacity: 0.6;
@@ -197,7 +199,8 @@ p {
     backdrop-filter: blur(15px);
     box-shadow: 0 25px 23px rgba(0,0,0,0.15);
     position: relative;
-    top: 20%;
+    top: 30px;
+    bottom: -30px;
     padding: 50px 25px;
     border: 1.5px solid rgba(255, 255, 255, 0.06);
     border-radius: 13px;
