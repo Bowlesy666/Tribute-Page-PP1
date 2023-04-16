@@ -227,6 +227,28 @@ p {
     color: #111111;
 }
 
+/* below is the further links styling */
+
+#further-links-header {
+    font-size: 26px;
+    text-align: center;
+}
+
+#further-links-description {
+    padding-bottom: 40px;
+}
+
+#further-links-gallery {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
 /* below here is the media queries in a mobile first style */
 
 @media screen and (min-width: 480px) {
