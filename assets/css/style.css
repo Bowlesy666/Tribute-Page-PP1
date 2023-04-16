@@ -13,6 +13,10 @@ p, li, a, label {
     font-family: 'Alata', sans-serif;
 }
 
+ul {
+    list-style-type: none;
+}
+
 /* All below is the header and nav bar styling */
 header {
     position: fixed;
@@ -24,7 +28,7 @@ header {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    padding: 5px 10%;
+    padding: 5px 5%;
     background-color:rgba(255, 255, 255, 0.95);
 }
 
@@ -35,55 +39,37 @@ header {
     background-color:rgba(0, 0, 0, 0);
 }
 
-#contact-input, #burger-input {
-    visibility: hidden;
-}
-
-#hidden-form {
-    visibility: hidden;
-    position: fixed;
-}
-
-#burger-menu {
-    position: fixed;
-    right: 20px;
-}
-
 #nav-placeholder {
     width: 100%;
     height: 45px;
 }
 
-.nav-links li {
-    position: relative;
-    top: -150px;
-    right: -50px;
-    width: 250px;
+.nav-links {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 5px 10%;
+}
+
+.nav-links li a {
+    position: static;
+    display: flex;
+    padding: 0 10px;
+    margin: 0;
+    width: auto;
     background-color: rgba(0, 0, 0, 0);
     justify-content: right;
     cursor: pointer;
     transition: all 0.3s ease 0s;
-}
-
-
-.nav-links li:hover {
-    background-color: rgba(200, 200, 200, 0.2);
+    list-style-type: none;
+    text-decoration: none;
+    color: #111;
     font-weight: 800;
 }
 
-#contact-input {
-    height: 0px;
-}
-
-.nav-links li div label, #contact-input {
-    background-color: grey;
-    display: block; 
-}
-
-.nav-links li, #burger-menu {
-    list-style: none;
-    display: block;
-    padding: 15px 10px;
+.nav-links li a:hover {
+    background-color: rgba(200, 200, 200, 0.2);
+    font-weight: 800;
 }
 
 /* Below here is Hero image and title styles */
@@ -325,30 +311,6 @@ footer h6 span {
 
 
 /* below here is the media queries in a mobile first style */
-
-@media screen and (min-width: 480px) {
-    /* header and nav bar media queries */
-    .nav-links li div {
-        display: flex;
-    }
-    .nav-links li, .nav-links li div label {
-        position: static;
-        display: flex;
-        padding-right: 0;
-        margin: 0;
-        width: auto;
-        background-color: rgba(0, 0, 0, 0);
-    }
-    ul {
-        display: flex;
-        justify-content: flex-end;
-        align-items: center;
-        padding: 5px 10%;
-    }
-    #burger-menu {
-        display: none;
-    }
-}
 
 @media screen and (min-width: 768px) {
 /* title and hero image media queries */
