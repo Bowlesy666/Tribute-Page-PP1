@@ -249,6 +249,27 @@ p {
     margin: 0 auto;
 }
 
+.further-link-thumbnail h5 {
+    position: absolute;
+    z-index: 1;
+    font-size: 32px;
+    transform: translate(-20px,-30px);
+    background-color: rgba(0,0,0,0);
+    color: rgb(0, 0, 255);
+}
+
+.further-link-thumbnail img {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 75px;
+}
+
+.further-link-thumbnail img:hover {
+    box-shadow: 0 5px 35px 0px rgba(0,0,0,0.4);
+    border: 1px solid rgb(0, 0, 255);
+}
+
 /* below here is the media queries in a mobile first style */
 
 @media screen and (min-width: 480px) {
