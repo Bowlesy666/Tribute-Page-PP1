@@ -174,7 +174,7 @@ details p {
     align-items: center;
     border-radius: 70% 60% 70% 50%;
     background-color: #eee;
-    box-shadow: inset 10px 10px 10px rgba(255, 255, 255, .9), -25px -10px 10px rgba(0, 0, 0, .05), -25px -30px 20px rgba(0, 0, 0, .05), inset -10px -10px 15px rgba(0, 0, 0, .05), 10px 10px 10px rgba(255, 255, 255, 0.8);
+    box-shadow: inset 10px 10px 10px rgba(255, 255, 255, .9), -25px -10px 10px rgba(0, 0, 0, .05), -25px -30px 20px rgba(0, 0, 0, .05), inset -10px -10px 15px rgba(0, 0, 0, .05), 15px 15px 10px rgba(255, 255, 255, 0.8);
 }
 
 #water-drop::before {
