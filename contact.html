@@ -27,12 +27,18 @@
         <div>
             <img src="assets/images/apple-laptop-kevin-scmidt.webp" alt="Apple laptop on wooden desk" id="contact-hero-image">
         </div>
-        <form id="contact-form" action="https://formsubmit.io/send/	f314fe61-bbcd-41e6-947c-250e2fe8de00" method="POST">
-            <input type="text" name="Name" placeholder=" Full Name..." required></input>
-            <input type="email" name="Contact Info" placeholder=" Email Address..." ></input>
-            <textarea name="Message" rows="10" placeholder=" Leave a message, tell me how you like this site..." required></textarea>
-            <input id="submit" type="submit" value="Submit">
-        </form>
+        <div id="contact-form-container">
+            <form id="contact-form" action="https://formsubmit.io/send/	f314fe61-bbcd-41e6-947c-250e2fe8de00" method="POST">
+                <input type="text" name="Name" placeholder=" Full Name..." required></input>
+                <input type="email" name="Contact Info" placeholder=" Email Address..." ></input>
+                <textarea name="Message" rows="10" placeholder=" Leave a message, tell me how you like this site..." required></textarea>
+                <!-- honeypot to avoid spam by fooling spambots, any value prided in this field, formsubmit will reject submission -->
+                <input name="_formsubmit_id" type="text" style="display:none">
+                <!-- below redirects to my thank you page instead of formsubmit.io thank you page -->
+                <input type="hidden" name="_next" value="thanks.html">
+                <input id="submit" type="submit" value="Submit">
+            </form>
+        </div>
     </body>
     <footer>
         <div class="footer-section">
