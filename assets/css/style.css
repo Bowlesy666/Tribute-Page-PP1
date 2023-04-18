@@ -399,7 +399,24 @@ textarea, input[type="text"], input[type="email"] {
 
 /* below is the return links styling on 404 page and thanks page */
 
+#return-links {
+    display: flex;
+    justify-content: space-around;
+}
 
+#return-links li a {
+    list-style-type: none;
+    text-decoration: none;
+    color: #fff;
+    background-color: #444;
+    padding: 2px 15px;
+    border-radius: 10px;
+}
+
+#return-links li a:hover {
+    font-weight: 900;
+    background-color: #616161;
+}
 
 /*  below is 404 page styling */
 
