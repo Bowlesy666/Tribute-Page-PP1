@@ -393,6 +393,14 @@ textarea, input[type="text"], input[type="email"] {
     transition: all 0.3s ease 0s;
 }
 
+#thumbsup-pic {
+    max-width: 100%;
+}
+
+/* below is the return links styling on 404 page and thanks page */
+
+
+
 /*  below is 404 page styling */
 
 #fourzerofour-hero-image {
