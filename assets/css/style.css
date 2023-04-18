@@ -112,7 +112,8 @@ p {
 /* below is for the pixar image */
 
 #pixar-image img {
-    width: 100vw;
+    max-width: 100vw;
+    min-width: 100vw;
 }
 
 #pixar-image-shoutout, #thumbsup-pic-shoutout {
