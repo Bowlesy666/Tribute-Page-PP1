@@ -354,7 +354,7 @@ footer h6 span {
     margin-right: 12px;
 }
 
-/* contact page style is below here */
+/* contact & thanks page style is below here */
 
 textarea, input[type="text"], input[type="email"] {
     background-color: white;
@@ -369,13 +369,13 @@ textarea, input[type="text"], input[type="email"] {
     width: 100%;
 }
 
-#contact-form {
+#contact-form, #contact-form-thankyou {
     width:300px;
     margin: 10px auto;
     font-size: 12px;
 }
 
-#contact-form h1 {
+#contact-form h1, #contact-form-thankyou h1, #contact-form-thankyou p {
     text-align: center;
     margin: 20px auto;
     padding-top: 25px;
@@ -437,7 +437,7 @@ textarea, input[type="text"], input[type="email"] {
     #contact-form-container {
         width: 768px;
     }
-    #contact-form {
+    #contact-form, #contact-form-thankyou {
         width: 80%;
         font-size: x-large;
     }
