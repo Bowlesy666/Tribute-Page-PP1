@@ -116,7 +116,7 @@ p {
     min-width: 100vw;
 }
 
-#pixar-image-shoutout, #thumbsup-pic-shoutout {
+#pixar-image-shoutout {
     font-size: 6px;
     float: right;
 }
@@ -450,8 +450,8 @@ textarea, input[type="text"], input[type="email"] {
         width: 340px;
         height: fit-content;
         left: 15px;
-        top: -180px;
-        margin-bottom: -130px;
+        top: -280px;
+        margin-bottom: -240px;
         border-radius: 10px;
     }
 }
@@ -461,10 +461,10 @@ textarea, input[type="text"], input[type="email"] {
         top: 535px;
     }
     #contact-form-container {
-        width: 768px;
+        position: absolute;
+        top: 45px;
     }
     #contact-form, #contact-form-thankyou {
         width: 80%;
-        font-size: x-large;
     }
 }
