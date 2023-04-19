@@ -315,14 +315,6 @@ footer {
     padding: 20px 10px;
 }
 
-footer h6 {
-    font-size: 28px;
-}
-
-footer h6 span {
-    font-size: 15px;
-}
-
 #footer-logo {
     width: 100px;
 }
@@ -340,6 +332,14 @@ footer h6 span {
 
 .footer-section p {
     font-size: small;
+}
+
+.footer-section .footer-h6 {
+    font-size: 28px;
+}
+
+.footer-section .footer-h6 span {
+    font-size: 15px;
 }
 
 .footer-social-logo {
