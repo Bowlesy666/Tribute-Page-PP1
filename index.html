@@ -31,28 +31,34 @@
         </header>
 <!-- Main section containing scrolling page of 5 main sections, nav placeholder and 2 design/aesthetic elements -->
         <main>
+<!-- Nav placeholder gives space before first section, needed due to the fixed position header -->
             <div id="nav-placeholder"></div>
+<!-- Hero image and h1 section -->
             <section>
                 <h1 id="title-page-top">Steve Jobs: <br><span>Pioneer of the personal computer revolution</span></h1>
                 <div>
                     <img id="hero-image-index" src="assets/images/stevejobsglassesiphone4.jpg" alt="Steve Jobs, Round glasses laying down with the legendary iPhone 4S">
                 </div>
             </section>
+<!-- About section giving overview of the page, sets out key goals, expectations and starts flow of information with basic overview. Purpose is immediately evident to any user. -->
             <section class="margin-sides">
                 <h2>Who Is Steve Jobs?</h2>
                 <p>Born in 1955 and raised by adoptive parents in Cupertino, California, Steve Jobs had a diverse range of interests as a young person, including engineering.</p>
                 <p>He briefly attended Reed College before dropping out and working as a video game designer at Atari. Jobs also traveled to India to explore Buddhism. </p>
                 <p>In 1976, he co-founded Apple, which he helped transform into a telecommunications powerhouse alongside Steve Wozniak. Jobs was widely regarded as a brilliant and visionary leader, responsible for groundbreaking products like the iPhone and iPod.</p>
                 <p>Why not listen to Steve Jobs Stanford University commencement speech! Steve Jobs, urges us to pursue our dreams and see the opportunities in life's setbacks<br>
+<!-- Audio, muted, relevant to page information -->
                     <audio src="assets/audio/audio-steve-jobs-speech.mp3" loop muted controls>
                         <span>OOPS, you dont seem to be able to play this audio, click <a href="https://www.englishspeecheschannel.com/downloads/steve-jobs/" target="_blank">This Link</a> to visit the English Speeches Channel and download the transcript or audio file yourself</span>
                     </audio>
                 </p>
             </section>
+<!-- Design element to break up the page sections -->
             <div id="pixar-image">
                 <img src="assets/images/pixar-buzz-lightyear.png" alt="Buzz lightyear looking out into the horizon">
                 <p id="pixar-image-shoutout">Photo by <a href="https://unsplash.com/@sushioutlaw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Brian McGowan</a> on <a href="https://unsplash.com/s/photos/pixar?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></p>
             </div>
+<!-- Milestones section uses details/summary elements so user can either take the basic information or take further information without overcrowding the page with content, also user friendly to navigate to each milestone, continuation of flow of information -->
             <section class="margin-sides">
                 <h3 id="milestones-title">Milestones of Steve Jobs</h3>
                 <details>
@@ -128,11 +134,13 @@
                     <p>When Steve Jobs' cancer returned, he knew it was time to make arrangements for his passing. He took steps to ensure that Apple would continue to operate successfully without him, including creating "Apple University" to groom future executives and selecting Tim Cook as his successor. He also unveiled plans for the new Apple Park campus. Jobs also prepared his personal legacy, granting interviews for his authorized biography and designing a yacht for his family. His passing came shortly after the introduction of the iPhone 4S, and he died peacefully at home surrounded by loved ones.</p>
                 </details>
             </section>
+<!-- 2nd design element - Waterdrop, Taken from a youtube tutorial(Link at end of comment), this was not copied line for line, I played with it and changed some styling, added to project as i feel it helped me gain confidence with with my own CSS skills and not just copying - https://www.youtube.com/watch?v=GnllGn9Oifs -->
             <div>
-                <div id="water-drop-container">
+                <div id="water-drop-container"> 
                         <div id="water-drop"><ion-icon name="logo-apple" class="logo-apple"></ion-icon></div>
                 </div> 
             </div>
+<!-- Testimonial section  -->
             <section>
                 <h4 id="testimonial-title" class="margin-sides">This guy is still a ledge and people are leaving comments even over a decade after his death, see below for some of the words that stuck out for me on Apples page dedicated to him, <a href="https://www.apple.com/stevejobs/">Remembering Steve Jobs</a>.<br></h4>
                 <div id="testimonial-background-container">
@@ -159,12 +167,14 @@
                     </div>
                 </div>
             </section>
+<!-- Further links section adds to the flow of the page, if you like learning about tech industry superstars then here is a good base of people to check out -->
             <section>
                 <h5 id="further-links-header">Check out more of the most influential people in the tech world</h5>
                 <p id="further-links-description" class="margin-sides">Technology has been an integral part of human existence since prehistoric times. From controlling fire to inventing the wheel and the modern term "technology" after the second Industrial Revolution, tools, communication, clothing, housing, transportation, weapons, and more all rely on technology. Technology news plays a significant role in our daily lives and development, and some famous tech figures have played crucial roles in advancing it.
-                    <br><br>
-                    However, it can be challenging to determine who the most influential figure in technology is, as many Silicon Valley leaders have contributed significantly to every aspect of our lives. Nevertheless, some individuals have made significant contributions to the tech industry, rejuvenating existing successes and achieving major tech milestones. This list focuses on famous tech people behind materialized innovations and those closely associated with significant tech achievements.
-                    </p>
+                <br><br>
+                However, it can be challenging to determine who the most influential figure in technology is, as many Silicon Valley leaders have contributed significantly to every aspect of our lives. Nevertheless, some individuals have made significant contributions to the tech industry, rejuvenating existing successes and achieving major tech milestones. This list focuses on famous tech people behind materialized innovations and those closely associated with significant tech achievements.
+                </p>
+                <!-- further-links-gallery is a wrapper that holds all containers together -->
                 <div id="further-links-gallery">
                     <div class="further-link-container">
                         <a href="https://en.wikipedia.org/wiki/Bill_Gates" class="further-link-thumbnail" target="_blank">
@@ -205,10 +215,11 @@
                 </div>
             </section>
         </main>
+<!-- Footer holds continuity on all pages including 404 page -->
         <footer>
             <div class="footer-section">
                 <a href="https://github.com/Bowlesy666" target="_blank">
-                    <img id="footer-logo" src="assets/images/headerlogo.webp" alt="Bowles Full Stack Logo will takw you to Bowles git hub profil in a new window">
+                    <img id="footer-logo" src="assets/images/headerlogo.webp" alt="Bowles Full Stack Logo will take you to Bowles git hub profile in a new window">
                 </a>
                 <p class="footer-h6">Bowles<br><span>Full Stack Development</span></p>
             </div>
@@ -223,6 +234,7 @@
                 <p>Thankyou for checking out my page,<br>I am doing this for fun and to keep my brain ticking. The topic is something I found interesting so decided to turn it into a project.<br>The more I learn the more creative my little projects will become.<br><br><br>Stay Tuned :)</p>
             </div>
         </footer>
+<!-- Scripts below for fontawesome and ionicons -->
         <script src="https://kit.fontawesome.com/ce872f0001.js" crossorigin="anonymous"></script>
         <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
         <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
