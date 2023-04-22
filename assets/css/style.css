@@ -276,18 +276,17 @@ details p {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    gap: 30px;
+    gap: 70px;
     max-width: 900px;
-    margin: 0 auto;
+    margin: 40px auto;
 }
 
 .further-link-thumbnail h5 {
     position: absolute;
-    z-index: 1;
     font-size: 32px;
-    transform: translate(-20px,-30px);
+    transform: translate( 0,-42px);
     background-color: rgba(0,0,0,0);
-    color: rgb(0, 0, 255);
+    color: rgb(0, 0, 0);
 }
 
 .further-link-thumbnail img {
@@ -299,7 +298,7 @@ details p {
 
 .further-link-thumbnail img:hover {
     box-shadow: 0 5px 35px 0px rgba(0,0,0,0.4);
-    border: 1px solid rgb(0, 0, 255);
+    border: 1px solid rgb(168, 168, 250);
 }
 
 /* below is the footer section styles */
@@ -471,5 +470,19 @@ textarea, input[type="text"], input[type="email"] {
 @media screen and (min-width: 1024px) {
     #title-page-top {
         top: 535px;
+    }
+}
+
+@media screen and (min-width: 1440px) {
+    #further-links-gallery {
+        gap: 136px;
+        max-width: 1024px;
+    }
+}
+
+@media screen and (min-width: 2560px) {
+    #further-links-gallery {
+        gap: 70px;
+        max-width: 2000px;
     }
 }
