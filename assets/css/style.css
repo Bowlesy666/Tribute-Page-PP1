@@ -129,7 +129,7 @@ p {
     margin: 20px auto;
 }
 
-details {
+.milestone-card {
     width: 100%;
     border-radius: 8px;
     margin-bottom: 10px;
@@ -140,17 +140,17 @@ details {
     font-size: 12px;
 }
 
-summary {
+summary  {
     cursor: pointer;
     background-color: inherit;
     color: inherit;
 }
 
-summary h3 {
+.milestone-brief {
     display: inline;
 }
 
-details p {
+.milestone-content {
     margin-left: 15px;
     font-size: small;
 }
