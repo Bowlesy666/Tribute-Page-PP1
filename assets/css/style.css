@@ -218,7 +218,7 @@ details p {
 
 #testimonial-background-container {
     padding-bottom: 30px;
-    background:linear-gradient(270deg, #00b0bd, #007b84);
+    background:linear-gradient(270deg, rgb(168, 168, 250), rgb(120, 120, 200));
 }
 
 .testimonial-card {
@@ -362,7 +362,7 @@ footer {
 textarea, input[type="text"], input[type="email"] {
     background-color: white;
     color: black;
-    border: solid 1px rgb(0, 117, 252);
+    border: solid 1px rgb(168, 168, 250);
     border-radius: 5px;
     width: 100%;
     margin: 10px auto;
@@ -391,7 +391,7 @@ textarea, input[type="text"], input[type="email"] {
     padding: 9px 35px;
     margin-top: 10px;
     margin-left: 32%;
-    background-color: rgb(0, 117, 252);
+    background-color: rgb(168, 168, 250);
     border: none;
     border-radius: 50px;
     cursor: pointer ;
