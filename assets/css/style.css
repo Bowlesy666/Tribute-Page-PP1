@@ -434,7 +434,7 @@ textarea, input[type="text"], input[type="email"] {
 }
 
 /* below here is the media queries in a mobile first style */
-
+/* This media query addresses footer issue, styles below stop footer sections going over 2 rows */
 @media screen and (min-width: 550px) {
     .footer-section {
         padding: 0;
@@ -450,7 +450,7 @@ textarea, input[type="text"], input[type="email"] {
         width: 25px;
     }
 }
-
+/* This media query resets footer styles at the threshold it would have fit on one row without issues */
 @media screen and (min-width: 845px) {
     .footer-section {
         padding: 20px;
@@ -468,7 +468,7 @@ textarea, input[type="text"], input[type="email"] {
 }
 
 @media screen and (min-width: 768px) {
-/* title and hero image media queries */
+/* title,hero image, contact form conatiner and return links media queries */
     #title-page-top {
         position: absolute;
         top: 385px;
