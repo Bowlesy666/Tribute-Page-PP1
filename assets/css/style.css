@@ -435,6 +435,38 @@ textarea, input[type="text"], input[type="email"] {
 
 /* below here is the media queries in a mobile first style */
 
+@media screen and (min-width: 550px) {
+    .footer-section {
+        padding: 0;
+        min-width: 150px;
+        max-width: 150px;
+    }
+    .footer-social-logo {
+        height: 30px;
+        width: 30px;
+    }
+    .footer-social-logo:hover {
+        height: 25px;
+        width: 25px;
+    }
+}
+
+@media screen and (min-width: 845px) {
+    .footer-section {
+        padding: 20px;
+        min-width: 250px;
+        max-width: 250px;
+    }
+    .footer-social-logo {
+        height: 50px;
+        width: 50px;
+    }
+    .footer-social-logo:hover {
+        height: 45px;
+        width: 45px;
+    }
+}
+
 @media screen and (min-width: 768px) {
 /* title and hero image media queries */
     #title-page-top {
