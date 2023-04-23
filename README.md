@@ -13,3 +13,35 @@ This tribute page provides value to users by inspiring them to think creatively 
 [View Steve Jobs Tribute Page repository in GitHub](https://github.com/Bowlesy666/Tribute-Page-PP1)
 
 [View Steve Jobs Tribut page deployed on GitHub](https://bowlesy666.github.io/Tribute-Page-PP1/)
+
+___
+
+## Contents
+
+___
+
+## UX
+
+___
+
+## Design
+
+___
+
+## Features
+
+___
+
+## Technology Used
+
+___
+
+## Deployment and Local Development
+
+___
+
+## Testing
+
+___
+
+## Credits
