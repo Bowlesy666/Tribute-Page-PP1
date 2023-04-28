@@ -119,6 +119,10 @@ p {
 
 /* below is for the pixar image */
 
+#pixar-image {
+    width: 100%;
+}
+
 #pixar-image img {
     max-width: 100%;
     min-width: 100%;
