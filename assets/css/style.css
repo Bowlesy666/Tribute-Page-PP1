@@ -148,7 +148,7 @@ p {
     color:rgb(168, 168, 250);
     box-shadow: 4px 4px 3px rgba(0, 0, 0, .18);
     padding: 25px;
-    font-size: 12px;
+    font-size: 18px;
 }
 
 summary  {
@@ -163,7 +163,7 @@ summary  {
 
 .milestone-content {
     margin-left: 15px;
-    font-size: small;
+    font-size: 16px;
 }
 
 /* all below is the waterdoplet styling */
