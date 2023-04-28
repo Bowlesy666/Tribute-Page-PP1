@@ -120,13 +120,14 @@ p {
 /* below is for the pixar image */
 
 #pixar-image img {
-    max-width: 100vw;
-    min-width: 100vw;
+    max-width: 100%;
+    min-width: 100%;
 }
 
-#pixar-image-shoutout {
-    font-size: 6px;
+#pixar-image-description {
+    font-size: 12px;
     float: right;
+    margin-right: 35px;
 }
 
 /* below is Milestones section styling */
