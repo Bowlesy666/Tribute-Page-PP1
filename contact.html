@@ -44,9 +44,12 @@
 <!-- Contact form, action goes to "https://formsubmit.io/" which emails me the comments, feel free to try it -->
                 <form id="contact-form" action="https://formsubmit.io/send/f314fe61-bbcd-41e6-947c-250e2fe8de00" method="POST">
                     <h1>Contact Us Below</h1>
-                    <input type="text" name="Name" placeholder=" Full Name..." required>
-                    <input type="email" name="Contact Info" placeholder=" Email Address..." required>
-                    <textarea name="Message" rows="10" placeholder=" Leave a message, tell me how you like this site..." required></textarea>
+                    <label for="name">Name:</label>
+                    <input id="name" type="text" name="Name" placeholder=" Full Name..." required>
+                    <label for="email">Email:</label>
+                    <input id="email" type="email" name="Contact Info" placeholder=" Email Address..." required>
+                    <label for="message">Message:</label>
+                    <textarea id="message" name="Message" rows="10" placeholder=" Leave a message, tell me how you like this site..." required></textarea>
 <!-- honeypot to avoid spam by fooling spambots, any value printed in this field, formsubmit will reject submission completely -->
                     <input name="_formsubmit_id" type="text" style="display:none">
 <!-- below redirects to my thank you page instead of formsubmit.io thank you page -->
