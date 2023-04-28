@@ -18,8 +18,8 @@ ___
 
 ## Contents
 
-* [UX](#user-experience-ux)
-  * [User Stories](#user-stories)
+* [UX](#UX)
+  * [User Stories](#User-Stories)
 
 * [Design](#design)
   * [Wireframes](#wireframes)
@@ -53,6 +53,32 @@ ___
 ___
 
 ## UX
+
+### User Stories
+
+#### Target Audience
+
+The target audience for the tribute page are:
+
+* Apple product consumers looking at the history of Apple inc. and the co-founder
+* Technology enthusiasts
+* Entreprenuers
+* Innovators
+* Students studying technology and business
+* Fans of Steve Jobs and his work
+* People seeking inspiration and motivation for their own passions and pursuits
+
+#### Goals
+
+The goals for this tribute page are:
+
+* Honour Steve Jobs contributions to the world of technology
+* Provide a platform for users to learn about Steve Jobs' life, achievements, and impact on the tech industry
+* Inspire users to think creatively and pursue their own passions, just as Steve Jobs did
+
+#### User Stories
+
+
 
 ___
 
