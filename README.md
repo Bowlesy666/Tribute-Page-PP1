@@ -125,10 +125,36 @@ For this project I used the fonts Alata and Robot Slab for their unique and mode
 
 <div align="left">
     <img src="assets/images/alata-eg.png" alt="Alata font example" style="height:100px;">
+    <p>Alata is a sans-serif font that is bold and geometric, making it perfect for headlines and titles. Its clean and modern style adds a touch of elegance to the design while also being easy to read. We used Alata for the main headings on the tribute page to create a strong visual impact.</p>
     <img src="assets/images/roboto-slab-eg.png" alt="Roboto Slab font example" style="height:100px;">
+    <p>Robot Slab, on the other hand, is a slab serif font that has a more traditional and classic feel. Its thick and sturdy lines make it perfect for body text and smaller headings. We used Robot Slab for the main body text on the tribute page to ensure readability and legibility.</p>
+    <img src="assets/images/apple-ionicon-logo.png" alt="Apple logo font used as part of CSS art" style="height:100px;">
+    <p>Additionally, we used the Ionicons website to access the Apple computer logo font. This font is a custom-designed typeface that is used exclusively by Apple and is not available for public use. However, the Ionicons website provides a collection of icons and logos, including the Apple computer logo, that are free to use for personal projects. We used the Apple computer logo font to create a visual connection between Steve Jobs and Apple, as he was one of the co-founders and played a significant role in the company's success. Using this font helped to reinforce the tribute page's focus on Steve Jobs' contributions to the tech industry and his legacy.</p>
 </div>
 
 ### Imagery:
+
+The imagery used on this website includes photos geared towards Steve Jobs, Apple products and Pixar. These images are used to provide visual interest and enhance the user experience.
+
+<div align="center">
+    <img src="assets/images/header-nav-eg.png" alt="Standardised header across all pages of the site" style="height:100px;">
+</div>
+
+#### Standardised Header/Nav Bar
+
+The header/nav bar and footer are standardized across all pages of the website to provide consistency and ease of navigation for the user. The header has a reduced opacity as I felt is was more stylish and innovative to fall in line with Apple products and everything that Steve Jobs was involved in.
+
+The nav bar includes two options: "Home" which takes the user to a scrolling page of five main sections, and "Contact Me" which takes the user to a page where they can submit a message to the website creator aswell as the logo, on the left, which will take the user to the Bowles full stack git hub page.
+
+The logo is shown as an abstract letter B, that can be rotated 180 degrees and look like the letter B but in a different format, as well as a "Stack" of objects to represent several programming languages, again can be rotated 180 degrees and will show a different set or "Stack" of languages. The logo colour has been modified to tie in with the pages aesthetics.
+
+<div align="center">
+    <img src="assets/images/footer-eg.png" alt="Standardised footer across all pages of the site" style="height:250px;">
+</div>
+
+#### Standardised Footer
+
+
 
 ___
 
