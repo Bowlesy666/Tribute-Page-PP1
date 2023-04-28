@@ -90,11 +90,19 @@ The goals for this tribute page are:
 
 * As a user, I want the tribute page to be informative and engaging, so that I can feel like I am learning something new and interesting about Steve Jobs and his impact on the world of technology.
 
-
+* As a user, I want an informative and aesthetically pleasing site I can keep returning to and use as a reference for Steve Jobs achievements.
 
 ___
 
 ## Design
+
+WireFrames: 
+
+Colour Scheme:
+
+Typography: 
+
+Imagery:
 
 ___
 
