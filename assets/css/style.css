@@ -33,10 +33,17 @@ header {
 }
 
 #header-logo {
-    height: 35px;
-    width: 35px;
-    margin-right: auto;
+    height: 45px;
+    width: 45px;
     background-color:rgba(0, 0, 0, 0);
+}
+
+#header-logo-github-link {
+    margin-right: auto;
+}
+
+#header-logo-github-link:hover {
+    background-color: rgba(200, 200, 200, 0.2);
 }
 
 #nav-placeholder {
