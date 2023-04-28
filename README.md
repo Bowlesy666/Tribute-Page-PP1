@@ -96,13 +96,39 @@ ___
 
 ## Design
 
-WireFrames: 
+### WireFrames: 
 
-Colour Scheme:
+### Colour Scheme:
 
-Typography: 
+<div align="left">
+    <img src="assets/images/coolers-colour-scheme.png" alt="Colour scheme made on coolors.co website" style="height:300px;">
+</div>
 
-Imagery:
+The colour scheme used in this project is a monochromatic colour scheme. It consists of shades of black, grey, and blue. 
+
+The primary colour used is black (#000000), which represents elegance, sophistication, and power. It is used as the background colour to provide a neutral and timeless base for the other colours to stand out.
+
+The secondary colour used is dark grey (#24252A), which adds depth and contrast to the design. It is used to highlight important elements and create a visual hierarchy.
+
+The tertiary colour used is light blue (#a8a8fa), which adds a touch of colour and liveliness to the design. It represents creativity, innovation, and technology, which are all values associated with Steve Jobs.
+
+The accent colour used is light grey (#c8c8c8), which is a softer version of the dark grey. It is used to create a subtle contrast and add texture to the design.
+
+Finally, white (#ffffff) is used as the contrasting colour to ensure readability and legibility and give it that crisp and proffesional feel.
+
+Overall, this colour scheme was chosen to create a sleek, modern, and sophisticated design that reflects Steve Jobs' impact on the world of technology.
+
+
+### Typography: 
+
+For this project I used the fonts Alata and Robot Slab for their unique and modern styles that fit well with the tribute page's sleek and sophisticated design. This will fall in line with many of the apple products which have time and time again proven to be sleek and sophisticated
+
+<div align="left">
+    <img src="assets/images/alata-eg.png" alt="Alata font example" style="height:100px;">
+    <img src="assets/images/roboto-slab-eg.png" alt="Roboto Slab font example" style="height:100px;">
+</div>
+
+### Imagery:
 
 ___
 
