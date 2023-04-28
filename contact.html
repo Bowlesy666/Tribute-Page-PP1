@@ -51,7 +51,8 @@
                     <label for="message">Message:</label>
                     <textarea id="message" name="Message" rows="10" placeholder=" Leave a message, tell me how you like this site..." required></textarea>
 <!-- honeypot to avoid spam by fooling spambots, any value printed in this field, formsubmit will reject submission completely -->
-                    <input name="_formsubmit_id" type="text" style="display:none">
+                    <label for="lets-check"> </label>
+                    <input id="lets-check" name="_formsubmit_id" type="text" style="display:none">
 <!-- below redirects to my thank you page instead of formsubmit.io thank you page -->
                     <input type="hidden" name="_redirect" id="name" value="https://bowlesy666.github.io/Tribute-Page-PP1/thanks.html">
                     <input id="submit" type="submit" value="Submit">
