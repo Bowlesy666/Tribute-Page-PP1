@@ -78,6 +78,18 @@ The goals for this tribute page are:
 
 #### User Stories
 
+* As a user, I want to be able to access a tribute page that honours Steve Jobs' contributions to the world of technology, so that I can learn more about his impact on the industry.
+
+* As a user, I want the tribute page to provide a platform for me to learn about Steve Jobs' life, achievements, and impact on the tech industry, so that I can gain a better understanding of his legacy.
+
+* As a user, I want the tribute page to inspire me to think creatively and pursue my own passions, just as Steve Jobs did, so that I can feel motivated to achieve my own goals.
+
+* As a user, I want the tribute page to be easy to navigate and visually appealing, so that I can enjoy the experience of learning about Steve Jobs' life and legacy.
+
+* As a user, I want the tribute page to include a variety of multimedia elements, such as photos and videos, so that I can engage with the content in different ways.
+
+* As a user, I want the tribute page to be informative and engaging, so that I can feel like I am learning something new and interesting about Steve Jobs and his impact on the world of technology.
+
 
 
 ___
