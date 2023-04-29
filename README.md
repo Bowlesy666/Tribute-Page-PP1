@@ -277,11 +277,25 @@ The contact page is designed for the user to give feedback, interesting features
 <summary>Thank you Page Screenshot</summary>
 <br>
   <div align="center">
-      <img src="assets/images/thanks-screenshot.png" alt="Screenshot of contact page" style="width:500px;">
+      <img src="assets/images/thanks-screenshot.png" alt="Screenshot of thanks page" style="width:500px;">
   </div>
 </details>
 
 I wanted this to be fun and show a lighthearted thank you, as I am using Formsubmit.io I had to redirect from their own "your form has been submitted page" as it had no return links as well as no continuity with the site branding
+
+#### 404 Page
+
+The header and footer were the same and the hero image has an old looking computer monitor to keep continuity and familiarity with the website itself
+
+<details>
+<summary>404 Page Screenshot</summary>
+<br>
+  <div align="center">
+      <img src="assets/images/404-screenshot.png" alt="Screenshot of 404 page" style="width:500px;">
+  </div>
+</details>
+
+I thought the image fit very well with the theme and what the page symbolised. the return links are there to redirect users back to the pages that are known to work.
 
 ___
 
