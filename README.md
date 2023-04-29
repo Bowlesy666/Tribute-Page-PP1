@@ -321,7 +321,7 @@ ___
 
 * The website utilises formsubmit.io for data submission.
 
-* Footer has social icons linking to website owners social pages
+* Footer has social icons linking to website owners social pages and header/footer logo links to github
 
 ___
 
