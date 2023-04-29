@@ -261,7 +261,7 @@ The flow is designed to start on load with an elegant monotone colour scheme and
 
 #### Contact & Thank You Pages
 
-The Contact/ Thank You page did not fit in the flow of the main scrolling page so it was designed to stand alone. The header and footer were the same to keep continuity and familiarity
+The Contact/ Thank You page did not fit in the flow of the main scrolling page so it was designed to stand alone. The header and footer were the same and the hero image has an Apple logo to keep continuity and familiarity with the website itself
 
 <details>
 <summary>Contact Page Screenshot</summary>
@@ -272,6 +272,16 @@ The Contact/ Thank You page did not fit in the flow of the main scrolling page s
 </details>
 
 The contact page is designed for the user to give feedback, interesting features here include spambot checker a thank you message on completion and this form actually works by sending myself an email by using formsubmit.io
+
+<details>
+<summary>Thank you Page Screenshot</summary>
+<br>
+  <div align="center">
+      <img src="assets/images/thanks-screenshot.png" alt="Screenshot of contact page" style="width:500px;">
+  </div>
+</details>
+
+I wanted this to be fun and show a lighthearted thank you, as I am using Formsubmit.io I had to redirect from their own "your form has been submitted page" as it had no return links as well as no continuity with the site branding
 
 ___
 
