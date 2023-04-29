@@ -341,7 +341,23 @@ ___
 
 * Canva
 
-* 
+* Google fonts
+
+* Font Awesome
+
+* Ionicons
+
+* Github
+
+* Gitpod
+
+* Favicongenerator.org
+
+* Coolors
+
+* Am-i-responsive
+
+* Balsamiq
 
 ___
 
