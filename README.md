@@ -489,4 +489,51 @@ ___
 
 ### Unsplash
 
+<div align="left">
+    <img src="assets/images/pixar-buzz-lightyear.png" alt="Buzz Lightyear, showcasing pixar film Toy Story. Pixar was owned by Steve Jobs" style="height:150px;">
+    <p>Photo by <a href="https://unsplash.com/pt-br/@sushioutlaw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Brian McGowan</a> on <a href="https://unsplash.com/photos/857R--_CvP0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  </p>
+    <img src="assets/images/apple-laptop-kevin-scmidt.webp" alt="Apple laptop on wooden desk" style="height:100px;">
+    <p>Photo by <a href="https://unsplash.com/@lighttouchedphotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kevin Schmid</a> on <a href="https://unsplash.com/photos/KuruTiZGin8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  </p>
+    <img src="assets/images/thumbsup.png" alt="Man giving two thumbs up close to camera lense" style="height:100px;">
+    <p>Photo by <a href="https://unsplash.com/@usmanyousaf?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Usman Yousaf</a> on <a href="https://unsplash.com/photos/-AQ-P_R25aI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  </p>
+    <img src="assets/images/stevejobsglassesiphone4.jpg" alt="Man giving two thumbs up close to camera lense" style="height:100px;">
+    <p>Photo by <a href="https://unsplash.com/@konseptastudio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Konsepta Studio</a> on <a href="https://unsplash.com/photos/6n9dzMQr8X0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  </p>
+</div>
+
+### Youtube Tutorial
+
+<div align="left">
+    <img src="assets/images/apple-logo-droplet.png" alt="Apple logo inside a waterdroplet CSS art with shadows and highlights" style="height:100px;">
+</div>
+
+[View the Youtube waterdrop Tutorial Here](https://www.youtube.com/watch?v=GnllGn9Oifs)
+
+### Canva
+
+<div align="center">
+    <img src="assets/images/404-error-image.png" alt="Canva free to use design, Yellow White Photo and Videocentric Error Page Website Error Page to symbolise how far computers have come in Steve Jobs lifetime" style="height:100px;">
+    <p>Canva free to use design, Yellow White Photo and Videocentric Error Page Website Error Page</p>
+</div>
+
+### Flexbox
+
+Flexbox I had learned form Freecodecamp a long time ago
+
+### Formsubmit.io
+
+Utilised this to have the repsonses go to my email and impliment the spambot feature
+
+### Other Credits
+
+* Favicon-generator.org used to create the favicons
+* 
+
+
+
+
+
 
