@@ -514,7 +514,7 @@ ___
 
 ### Canva
 
-<div align="center">
+<div align="left">
     <img src="assets/images/404-error-image.png" alt="Canva free to use design, Yellow White Photo and Videocentric Error Page Website Error Page to symbolise how far computers have come in Steve Jobs lifetime" style="height:100px;">
     <p>Canva free to use design, Yellow White Photo and Videocentric Error Page Website Error Page</p>
 </div>
@@ -530,7 +530,6 @@ Utilised this to have the repsonses go to my email and impliment the spambot fea
 ### Other Credits
 
 * Favicon-generator.org used to create the favicons
-* 
 
 
 
