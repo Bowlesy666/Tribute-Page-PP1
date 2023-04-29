@@ -377,7 +377,41 @@ ___
 
 ## Deployment and Local Development
 
+### Deployment
 
+I have deployed my project using GitHub Pages. Click this [link](https://bowlesy666.github.io/Tribute-Page-PP1/index.html) to view the deplyed project.
+
+To deploy the project I followed the below instructions:
+
+1. Login or Sign Up to GitHub.
+2. Open the project repository [here.](https://github.com/Bowlesy666/Tribute-Page-PP1)
+3. Click on "Settings" on the navigation bar under the repository title.
+4. Click on "Pages" in the left hand navigation panel.
+5. In the Build and deployment section under "Source", choose which branch to deploy. This should be Main.
+6. Choose which folder to deploy from, usually "/root".
+7. Click "Save", then wait for it to be deployed. It can take some time for the page to be fully deployed and you may have to refresh the page after a couple of minutes.
+8. Your URL will be displayed above "Source".
+9. The prject will now be deployed
+
+### Local Development
+
+#### How to Fork
+
+To fork the repository:
+
+1. Log in (or sign up) to Github.
+2. Go to the repository for this project, [Tribute-Page-PP1](https://github.com/Bowlesy666/Tribute-Page-PP1).
+3. Click the Fork button in the top right corner.
+
+#### How to Clone
+
+To clone the repository:
+
+1. Log in (or sign up) to GitHub.
+2. Go to the repository for this project, [Tribute-Page-PP1](https://github.com/Bowlesy666/Tribute-Page-PP1).
+3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
 
 ___
 
