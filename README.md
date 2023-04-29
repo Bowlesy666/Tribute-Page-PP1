@@ -225,10 +225,10 @@ The flow is designed to start on load with an elegant monotone colour scheme and
 <summary>Index Page Screenshots as whole project</summary>
 <br>
   <div align="center">
-      <img src="assets/images/index-screenshot-1.png" alt="Screenshot of index page" style="width:500px;">
-      <img src="assets/images/index-screenshot-2.png" alt="Screenshot of index page" style="width:500px;">
-      <img src="assets/images/index-screenshot-3.png" alt="Screenshot of index page" style="width:500px;">
-      <img src="assets/images/index-screenshot-4.png" alt="Screenshot of index page" style="width:500px;">
+      <img src="assets/images/index-screenshot-1.png" alt="Screenshot of index page" style="width:500px; display:block">
+      <img src="assets/images/index-screenshot-2.png" alt="Screenshot of index page" style="width:500px; display:block">
+      <img src="assets/images/index-screenshot-3.png" alt="Screenshot of index page" style="width:500px; display:block">
+      <img src="assets/images/index-screenshot-4.png" alt="Screenshot of index page" style="width:500px; display:block">
   </div>
 </details>  
 
