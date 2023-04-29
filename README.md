@@ -213,7 +213,51 @@ I left this in my project even though it was from a youtube tutorial as I feel l
     <p>pictures used in this section are taken from the wikipedia pages that they are anchored to and will be referenced in the credits section below</p>
 </div>
 
+### Page Flow
 
+#### Main Scrolling Page
+
+This is the main page and consits of many major sections.
+
+The flow is designed to start on load with an elegant monotone colour scheme and as the user begins to scroll they discover more colour, features, information and excitement. This symbolises the advancements in technology that has been seen over Steve Jobs lifetime.
+
+<details>
+<summary>Index Page Screenshots as whole project</summary>
+<br>
+  <div align="center">
+      <img src="assets/images/index-screenshot-1.png" alt="Screenshot of index page" style="width:500px;">
+      <img src="assets/images/index-screenshot-2.png" alt="Screenshot of index page" style="width:500px;">
+      <img src="assets/images/index-screenshot-3.png" alt="Screenshot of index page" style="width:500px;">
+      <img src="assets/images/index-screenshot-4.png" alt="Screenshot of index page" style="width:500px;">
+  </div>
+</details>
+
+<details>
+<summary>Index Page Flow: Broken down into sections</summary>
+
+* Header/Nav Bar, nav elements are in the top right designed for the mobile first approach, this perfect placement for users thumbs to press aswell as where eyes are drawn to. the space between links is sufficent for even clumsy users.
+
+* Image and title to instantly let users understand the page intent
+
+* Brief summary about Steve Jobs
+
+* Audio file and transcript link so users can understand more about Steve jobs
+
+* Vibrant image to showcase Pixar Film and break up the sections with a design element
+
+* Milestones advances from brief overviews to now giving the choice of headings or full information, the details summary use gives the user both interaction and control over navigating the timeline of events and what specific information they wish view
+
+* Waterdrop design element breaks up the sections and symbolises advancements in technology by showcasing CSS art rather than pre made images
+
+* Testimonials sections shows the love that people feel for Steve Jobs, allowing the user to feel the same
+
+* The "Further Links" description provides a sufficient explanation to enlighten users on the ongoing advancements in technology, this will motivate them to take action.
+
+* Further links section has contemporary style headings on the links that are slightly offset to the left, pictures with rounded edges and :hover styles with big shadows showing the diversity of technology today
+
+* Footer has a contrasted background to the rest fo the project as i wanted to show that it was the and of the page and also that it contained different type of information, it contains my information.
+
+</details>
 
 ___
 
