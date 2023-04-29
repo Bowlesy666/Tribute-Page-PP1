@@ -347,6 +347,8 @@ ___
 
 * Ionicons
 
+* Git for version control
+
 * Github
 
 * Gitpod
@@ -359,13 +361,32 @@ ___
 
 * Balsamiq
 
+* Google Dev Tools
+
+### Accessibility
+
+I have been checking that the website is accessible friendly at every stage using Lighthouse. i have also been mindful that I am:
+
+* Using semantic HTML techniques.
+* Using descriptive alt attributes on images on the site.
+* Providing information for screen readers where there are icons used and no text. This has been actioned in the footer/header of the project.
+* Ensuring that there is a sufficient colour contrast throughout the site.
+* Adding a transcript option for the audio playback
+
 ___
 
 ## Deployment and Local Development
 
+
+
 ___
 
 ## Testing
+
+* HTML has been validated with [W3C HTML5 Validator](https://validator.w3.org/).
+* CSS has been validated with [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+
+
 
 ___
 
