@@ -417,9 +417,39 @@ ___
 
 ## Testing
 
+### Validators
+
 * HTML has been validated with [W3C HTML5 Validator](https://validator.w3.org/).
 * CSS has been validated with [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 
+### General Testing
+
+* Each feature or section was tested using the validators and lighthouse at each stage for functionality and accessibility
+* The form has validation and will not submit without correct information and also a spam bot checker to avoid spamming
+* External links open in a new tab
+* Internal links open in the same tab
+* Family and slack peer review were used for feedback
+
+### Mobile Testing
+
+* The site was built in mobile first style so has been tested primarily for this
+* predominantly tested on Safari as all family have iPhones
+
+### Desktop Testing
+
+* Site was developed on a HP laptop using chrome, also tested on microsoft Edge towards the end of the coding stages
+
+### Bugs
+
+#### Known Bugs
+
+##### Fixed Bug
+
+* Footer H6 was fine on the scrolling page but flagged as warning for accessibilty issues on the contact, thank you and 404 page as they had less content, i fixed this by utilising a class sleecetor for the styling and taking away the H6
+
+##### Unfixed Fixed Bug
+
+* During both peer and mentor review I was told about a white line on the right hand side of my project shows a sizing issue, I was unable to see this on my monitor but investigated it anyway, i followed suggestion to change a width from vw to % and as I am unable to see if it has changed anything I do not know if it is fixed. This is something i would like to fix after the course completion, time constraint left me unable to continue investigating
 
 
 ___
