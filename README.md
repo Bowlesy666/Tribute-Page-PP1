@@ -451,7 +451,42 @@ ___
 
 * During both peer and mentor review I was told about a white line on the right hand side of my project shows a sizing issue, I was unable to see this on my monitor but investigated it anyway, i followed suggestion to change a width from vw to % and as I am unable to see if it has changed anything I do not know if it is fixed. This is something i would like to fix after the course completion, time constraint left me unable to continue investigating
 
+| Goals | How is goal achieved? | summary of checks |
+| :--- | :--- | :--- |
+| Honour Steve Jobs contributions to tech world | Using the details/summary milestones section | All drop downs work, information is readable and is an easy to follow the timeline of events |
+| Provide a platform to learn about Steve jobs life, achievements and impact on technology | Flow of information | The flow of information takes you form Steve Jobs' childhood through his work history and milestines and to teh testimonials section where it shows he still has an influence on people even after his death |
+| Inspire others to follow there passions and think creatively | Flow of information and how it leads to the further links section | Feedback from family shows they clciked on the further links and were interested in other achievements made by other people, this shows an added interest, that spark we were looking for |
+
+##### Testing
+
+| Feature | Type of Test | Expected Outcome | Result | Pass/Fail |
+| ------- | ------------ | ---------------- | ------ | --------- |
+| Header Logo | Hover| Background colour change | As Expected | Pass |
+| Header Logo | Click | redirect to Github | As Expected | Pass |
+| Nav links | Hover| Background colour change | As Expected | Pass |
+| Nav links | Click | Open link on same tab | As Expected | Pass |
+| Header title | Responsiveness | Overlay hero image on larger screen sizes | As Expected | Pass |
+| Audio | Muted on load | Gives muted icon and no sound plays on click | As Expected | Pass |
+| Audio | Controls displayed | Play button and time bar | As Expected | Pass |
+| Milestones | on click | dropdown to show information | As Expected | Pass |
+| Milestones | on click | dropdown to show information | As Expected | Pass |
+| link to Apples remembering Steve Jobs page | on click | Link opens in new tab | As Expected | Pass |
+| Further links gallery | responsiveness | Using lighthouse to view differnet screen sizes, gallery should change from 1 column on mobile up to 1 row only on 4k screen | As Expected | Pass |
+| Further links gallery | Hover | Blue border and shadow | As Expected | Pass |
+| Further links gallery | On click | Link opens in new tab | As Expected | Pass |
+| Social media links | Hover | Size change | As Expected | Pass |
+| Footer logo and social media links | on click | Link opens in new tab | As Expected | Pass |
+| Contact form | Input/Required | cannot submit without required information | As Expected | Pass |
+| Contact form | Spambot | cannot submit with spam type information | As Expected | Pass |
+| Contact form | Submit | redirects to thank you page | As Expected | Pass |
+| Thank you return links | On Click | Opens link in same tab | As Expected | Pass |
+| 404 return links | On Click | Opens link in same tab | As Expected | Pass |
+
 
 ___
 
 ## Credits
+
+### Unsplash
+
+
