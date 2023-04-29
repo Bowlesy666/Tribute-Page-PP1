@@ -136,11 +136,11 @@ For this project I used the fonts Alata and Robot Slab for their unique and mode
 
 The imagery used on this website includes photos geared towards Steve Jobs, Apple products and Pixar. These images are used to provide visual interest and enhance the user experience.
 
+#### Standardised Header/Nav Bar
+
 <div align="center">
     <img src="assets/images/header-nav-eg.png" alt="Standardised header across all pages of the site" style="height:100px;">
 </div>
-
-#### Standardised Header/Nav Bar
 
 The header/nav bar and footer are standardized across all pages of the website to provide consistency and ease of navigation for the user. The header has a reduced opacity as I felt is was more stylish and innovative to fall in line with Apple products and everything that Steve Jobs was involved in.
 
@@ -148,11 +148,70 @@ The nav bar includes two options: "Home" which takes the user to a scrolling pag
 
 The logo is shown as an abstract letter B, that can be rotated 180 degrees and look like the letter B but in a different format, as well as a "Stack" of objects to represent several programming languages, again can be rotated 180 degrees and will show a different set or "Stack" of languages. The logo colour has been modified to tie in with the pages aesthetics.
 
+#### Standardised Footer
+
 <div align="center">
     <img src="assets/images/footer-eg.png" alt="Standardised footer across all pages of the site" style="height:250px;">
 </div>
 
-#### Standardised Footer
+A standardized footer is used to provide consistency across all pages of a website. It includes important information such as contact details, thank you and brief summary of why I chose this topic. 
+
+A standardized footer can help to improve the overall user experience by providing a sense of familiarity and making the site easier to use. Overall, a standardized footer is an important design element.
+
+#### Images and Initial Load Aesthetic
+
+<div align="center">
+    <img src="assets/images/on-load-index.png" alt="view of the index page on first laoding the site shows clean and crisp look" style="height:450px;">
+</div>
+
+The initial loading of the Steve Jobs tribute page is designed to create a crisp and elegant aesthetic that symbolizes the starting point of Steve Jobs' career and his advances in technology. The page features a monochromatic color scheme with shades of black, grey, and the small hint of blue in the logo, which represents sophistication, power, and creativity. Overall, the initial loading of the page sets the tone for the rest of the tribute which progresses and develops into more colour and more wow factor.
+
+#### Unsplash/Canva Royalty Free Images
+
+<div align="center">
+    <img src="assets/images/pixar-buzz-lightyear.png" alt="Buzz Lightyear, showcasing pixar film Toy Story. Pixar was owned by Steve Jobs" style="height:150px;">
+    <p>Photo by <a href="https://unsplash.com/pt-br/@sushioutlaw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Brian McGowan</a> on <a href="https://unsplash.com/photos/857R--_CvP0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  </p>
+</div>
+
+Unsplash is a website that provides free high-quality images that can be used for personal or commercial projects. 
+
+<div align="center">
+    <img src="assets/images/apple-laptop-kevin-scmidt.webp" alt="Apple laptop on wooden desk" style="height:250px;">
+    <p>Photo by <a href="https://unsplash.com/@lighttouchedphotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kevin Schmid</a> on <a href="https://unsplash.com/photos/KuruTiZGin8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  </p>
+</div>
+
+Using Unsplash images in my project saved time and eliminated cost or the need to purchase licensed images. 
+
+<div align="center">
+    <img src="assets/images/thumbsup.png" alt="Man giving two thumbs up close to camera lense" style="height:250px;">
+    <p>Photo by <a href="https://unsplash.com/@usmanyousaf?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Usman Yousaf</a> on <a href="https://unsplash.com/photos/-AQ-P_R25aI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  </p>
+</div>
+
+Additionally, Unsplash images are often visually stunning and can add a professional and polished look to a project. Using Unsplash images enhanced the visual appeal of my project while also saving time and resources.
+
+<div align="center">
+    <img src="assets/images/404-error-image.png" alt="Canva free to use design, Yellow White Photo and Videocentric Error Page Website Error Page to symbolise ho wfar computers have come in Steve Jobs lifetime" style="height:250px;">
+    <p>Canva free to use design, Yellow White Photo and Videocentric Error Page Website Error Page to symbolise ho wfar computers have come in Steve Jobs lifetime</p>
+</div>
+
+<div align="center">
+    <img src="assets/images/apple-logo-droplet.png" alt="Apple logo inside a waterdroplet CSS art with shadows and highlights" style="height:250px;">
+    <p>This wa taken from a youtube tutorial!<br>BUT<br>I completed the tutorial before starting this project and did not re follow it line by line when implimenting it here, I started off referencing how it was structured with the container, the ::before and ::after for the reflections/highlights and continued on my own styling it in my own way</p>
+</div>
+
+I left this in my project even though it was from a youtube tutorial as I feel like some things started to click for me with CSS and was a bit of a personal milestone. I changed things such as shape of droplet, highlights/shadows. i had changed the icon but reverted to the ionicon as i was unsure on copyright with using a genuine apple logo"
+
+[View the Youtube waterdrop Tutorial Here](https://www.youtube.com/watch?v=GnllGn9Oifs)
+
+#### Wikipedia Images and Links
+
+<div align="center">
+    <img src="assets/images/further-link-screengrab.png" alt="collection of links to 6 major technology leaders" style="height:250px;">
+    <p>pictures used in this section are taken from the wikipedia pages that they are anchored to and will be referenced in the credits section below</p>
+</div>
 
 
 
