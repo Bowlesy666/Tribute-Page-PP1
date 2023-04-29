@@ -230,7 +230,7 @@ The flow is designed to start on load with an elegant monotone colour scheme and
       <img src="assets/images/index-screenshot-3.png" alt="Screenshot of index page" style="width:500px;">
       <img src="assets/images/index-screenshot-4.png" alt="Screenshot of index page" style="width:500px;">
   </div>
-</details>
+</details>  
 
 <details>
 <summary>Index Page Flow: Broken down into sections</summary>
@@ -258,6 +258,20 @@ The flow is designed to start on load with an elegant monotone colour scheme and
 * Footer has a contrasted background to the rest fo the project as i wanted to show that it was the and of the page and also that it contained different type of information, it contains my information.
 
 </details>
+
+#### Contact & Thank You Pages
+
+The Contact/ Thank You page did not fit in the flow of the main scrolling page so it was designed to stand alone. The header and footer were the same to keep continuity and familiarity
+
+<details>
+<summary>Contact Page Screenshot</summary>
+<br>
+  <div align="center">
+      <img src="assets/images/contact-screenshot.png" alt="Screenshot of contact page" style="width:500px;">
+  </div>
+</details>
+
+The contact page is designed for the user to give feedback, interesting features here include spambot checker a thank you message on completion and this form actually works by sending myself an email by using formsubmit.io
 
 ___
 
