@@ -301,6 +301,28 @@ ___
 
 ## Features
 
+* built using mobile first style, responsive for larger screen sizes
+
+* Is accessibility compliant
+
+* The website has audio element that if broken or user is unable to hear has an external transcript link
+
+* The website features a standardized header/nav bar and footer for consistency and ease of navigation. 
+
+* The nav bar includes links to the main page and a contact form strategically placed for mobile users
+
+* The main page features a responsive title, audio playback element, CSS art, repsonsive gallery, milestones timeline of events and footer 
+
+* The website also includes a 404 page and favicons for improved user experience. 
+
+* The contact form allows users to submit messages to the website owner. 
+
+* The website utilizes flexbox for layout styling
+
+* The website utilises formsubmit.io for data submission.
+
+* Footer has social icons linking to website owners social pages
+
 ___
 
 ## Technology Used
