@@ -323,9 +323,25 @@ ___
 
 * Footer has social icons linking to website owners social pages and header/footer logo links to github
 
+* hover effects and pointer
+
+* frosted glass effect on tetsimonial cards
+
 ___
 
 ## Technology Used
+
+* HTML
+
+* CSS
+
+* Flexbox
+
+* Formsubmit.io
+
+* Canva
+
+* 
 
 ___
 
