@@ -12,7 +12,13 @@ This tribute page provides value to users by inspiring them to think creatively 
 
 [View Steve Jobs Tribute Page repository in GitHub](https://github.com/Bowlesy666/Tribute-Page-PP1)
 
-[View Steve Jobs Tribut page deployed on GitHub](https://bowlesy666.github.io/Tribute-Page-PP1/)
+[Index page deployed on GitHub](https://bowlesy666.github.io/Tribute-Page-PP1/)
+
+[Contact page deployed on GitHub](https://bowlesy666.github.io/Tribute-Page-PP1/contact.html)
+
+[Thanks page deployed on GitHub](https://bowlesy666.github.io/Tribute-Page-PP1/thanks.html)
+
+[404 page deployed on GitHub](https://bowlesy666.github.io/Tribute-Page-PP1/404.html)
 
 ___
 
@@ -97,6 +103,38 @@ ___
 ## Design
 
 ### WireFrames: 
+
+#### Index
+
+<details>
+<summary>Index page wireframes</summary>
+<br>
+  <div align="center">
+      <img src="assets/images/balsamiq-index-1.png" alt="Screenshot of index page" style="width:500px; display:block">
+      <img src="assets/images/balsamiq-index-2.png" alt="Screenshot of index page" style="width:500px; display:block">
+      <img src="assets/images/balsamiq-index-3.png" alt="Screenshot of index page" style="width:500px; display:block">
+  </div>
+</details>  
+
+#### Contact & Thanks
+
+<details>
+<summary>Contact & Thanks page wireframes</summary>
+<br>
+  <div align="center">
+      <img src="assets/images/balsamiq-form.png" alt="Screenshot of contact page" style="width:500px;">
+  </div>
+</details>
+
+#### 404
+
+<details>
+<summary>404 page wireframes</summary>
+<br>
+  <div align="center">
+      <img src="assets/images/balsamiq-404.png" alt="Screenshot of contact page" style="width:500px;">
+  </div>
+</details>
 
 ### Colour Scheme:
 
